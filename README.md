@@ -1,4 +1,4 @@
-# ObservablesStarter
+# Observables Overview
 
 The project covers basic functionality and understanding of observables in Angular.
 
